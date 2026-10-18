@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\acer\\OneDrive\\Desktop\\New folder\\Uni_Connect\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,0,"0 B",1792302691,"10/18/26, 11:21:31 AM");</script>
+<script>addRow("Backend","Backend",1,0,"0 B",1792302618,"10/18/26, 11:20:18 AM");</script>
+<script>addRow("Frontend","Frontend",1,0,"0 B",1792302618,"10/18/26, 11:20:18 AM");</script>
+<script>addRow("README.md","README.md",0,43,"43 B",1792302608,"10/18/26, 11:20:08 AM");</script>
